@@ -139,3 +139,30 @@ The analysis identified the most influential variables affecting electricity pri
 ---
 
 ## Repository Structure
+
+
+├── README.md
+├── code/
+│ ├── data_preparation.py
+│ ├── arima_model.py
+│ ├── xgboost_model.py
+│ └── evaluation.py
+│
+├── figures/
+│ ├── forecast_results.png
+│ └── shap_analysis.png
+│
+├── thesis.pdf
+└── requirements.txt
+
+
+
+## Author
+
+**Ahmed Abbas**
+
+Master of Business Analytics  
+University of Inland Norway
+
+GitHub: [(https://github.com/Ebspark25/day-ahead-electricity-price-forecasting-no1)]  
+LinkedIn: [https://www.linkedin.com/in/ahmed-mohamed-7672a7b9/]
